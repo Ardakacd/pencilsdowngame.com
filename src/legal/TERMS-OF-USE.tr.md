@@ -1,12 +1,3 @@
-<!--
-Bakım notu (yayımlanmaz). Bu dosya https://pencilsdowngame.com/tr/terms/ adresinde yayımlanan
-metindir (site deposu: Ardakacd/pencilsdowngame.com); ikisi aynı kalmalıdır. Oyundaki
-GameTelemetry.TermsOfUseUrlTurkish bu adresi, GameTelemetry.TermsOfUseUrl İngilizce sürümün adresini
-(https://pencilsdowngame.com/terms/) gösterir; ikisi de https adresi olmadan sürüm derlemesi
-yapılamaz. Oyun dili Türkçe olan oyuncular Ayarlar'dan bu sürümü açar. Bu metin İngilizce sürümle
-(TERMS-OF-USE.md) ve Docs/M135-Payments-Telemetry.md içindeki ürünlerle aynı içeriği taşımalıdır.
-Açık konu: metni bir avukata kontrol ettirin.
--->
 # Kullanım Koşulları: Pencils Down: Exam Proctor
 
 **Yürürlük tarihi:** 22 Kasım 2026  

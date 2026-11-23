@@ -1,11 +1,3 @@
-<!--
-Maintainer note (not published). This file is the published text of
-https://pencilsdowngame.com/privacy/ (site repo: Ardakacd/pencilsdowngame.com); keep the two equal.
-GameTelemetry.PrivacyPolicyUrl points there. Update this policy whenever a service is added, and
-keep the Turkish version (PRIVACY-POLICY.tr.md, which is also the KVKK notice, published at
-https://pencilsdowngame.com/tr/privacy/ and set in GameTelemetry.PrivacyPolicyUrlTurkish) in step
-with it. Open legal item: have a Turkish lawyer check the KVKK Art. 9 transfer clause.
--->
 # Privacy Policy: Pencils Down: Exam Proctor
 
 **Effective date:** November 22, 2026  

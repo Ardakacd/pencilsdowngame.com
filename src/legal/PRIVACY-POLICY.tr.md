@@ -1,13 +1,3 @@
-<!--
-Bakım notu (yayımlanmaz). Bu dosya https://pencilsdowngame.com/tr/privacy/ adresinde yayımlanan
-metindir (site deposu: Ardakacd/pencilsdowngame.com); ikisi aynı kalmalıdır. İngilizce gizlilik
-politikasının (PRIVACY-POLICY.md) çevirisidir; içerik bakımından esas olan İngilizce sürümdür ve
-ikisi her zaman aynı içeriği taşımalıdır. Oyundaki GameTelemetry.PrivacyPolicyUrlTurkish bu adresi
-gösterir (oyun dili Türkçe olan oyuncular Ayarlar'dan bu sürümü açar). Burada geçen ayar adları
-("Gizlilik ve koşullar", "Kullanım ve çökme verileri", "Kariyeri bırak", "Satın alımları geri
-yükle") oyundakilerle aynı olmalıdır. Açık hukuki konu: yurt dışına aktarım bölümünü (KVKK m. 9,
-2024 değişikliği sonrası) bir Türk avukata kontrol ettirin.
--->
 # Gizlilik Politikası ve KVKK Aydınlatma Metni: Pencils Down: Exam Proctor
 
 **Yürürlük tarihi:** 22 Kasım 2026  

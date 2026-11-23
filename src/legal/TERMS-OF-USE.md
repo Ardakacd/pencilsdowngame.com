@@ -1,11 +1,3 @@
-<!--
-Maintainer note (not published). This file is the published text of
-https://pencilsdowngame.com/terms/ (site repo: Ardakacd/pencilsdowngame.com); keep the two equal.
-GameTelemetry.TermsOfUseUrl points there, and GameTelemetry.TermsOfUseUrlTurkish points to the
-Turkish version (https://pencilsdowngame.com/tr/terms/); a release build refuses to run until both
-are https addresses. Keep this text in step with the Turkish version (TERMS-OF-USE.tr.md) and with
-the products in Docs/M135-Payments-Telemetry.md. Open item: have a lawyer check the text.
--->
 # Terms of Use: Pencils Down: Exam Proctor
 
 **Effective date:** November 22, 2026  
