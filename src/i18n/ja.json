@@ -1,0 +1,133 @@
+{
+  "_note": "Site strings. Values may hold inline HTML. {placeholders} are filled by build.py and must be kept as they are.",
+
+  "lang_name": "日本語",
+  "lang_label": "言語",
+  "skip": "本文へスキップ",
+  "menu": "メニュー",
+
+  "nav_home": "ホーム",
+  "nav_features": "ゲーム紹介",
+  "nav_screens": "スクリーンショット",
+  "nav_faq": "よくある質問",
+  "nav_support": "サポート",
+  "nav_privacy": "プライバシー",
+  "nav_terms": "利用規約",
+  "nav_privacy_long": "プライバシーポリシー",
+
+  "game_subtitle": "試験監督官",
+  "tagline": "本物の決断。本物の結末。",
+
+  "meta_home_title": "Pencils Down: Exam Proctor｜試験を監督するモバイルゲーム",
+  "meta_home_desc": "試験を監督しよう。教室を見渡し、机の上を読み取り、動くべきときを見極めます。8つの学校でキャリアを築きましょう。広告なし、オフラインでプレイ可能。Android・iPhone対応。",
+  "meta_support_title": "サポート",
+  "meta_support_desc": "Pencils Down: Exam Proctorのお問い合わせ、購入の復元、利用状況データの停止、データ削除、返金について。",
+  "meta_privacy_desc": "Pencils Down: Exam Proctorが保存・送信する情報と、あなたが選べること。",
+  "meta_terms_desc": "Pencils Down: Exam Proctorのライセンス、購入、コイン、返金について。",
+
+  "hero_kicker": "試験を監督するモバイルゲーム",
+  "hero_pitch": "あなたは試験監督。教室を見渡し、机の上にあるものを読み取って、注意するか、没収するか、退室させるか、それとも見過ごすかを決めます。不審＝不正ではありません。かえで小から全国試験センターまで、8つの学校でキャリアを築き、コインを稼いで監督の装いを整えましょう。広告なし、課金なしで最後まで遊べて、オフラインでもプレイできます。",
+  "hero_art_alt": "夕方の誰もいない試験会場。答案用紙が置かれた机の列、黒板、時計。",
+  "icon_alt": "Pencils Downのアプリアイコン：机で答案を書く生徒たち",
+
+  "store_coming_soon": "近日公開",
+  "store_get_android": "ダウンロード",
+  "store_get_ios": "ダウンロード",
+  "store_soon_note": "Android・iPhone/iPadで近日公開予定です。",
+
+  "fact_ads": "広告なし",
+  "fact_free": "基本プレイ無料",
+  "fact_offline": "オフライン対応",
+  "fact_langs": "7言語対応",
+
+  "features_kicker": "遊び方",
+  "features_title": "どの試験も、小さな決断に満ちた教室です",
+
+  "f1_title": "教室を見渡す",
+  "f1_text": "横へのちらりとした視線、机の下の手、2列後ろのささやき声。試験監督の目に映るものがあなたにも見えます。そしてどう対処するかを決めるのはあなたです。注意する、没収する、退室させる、それとも見過ごすか。",
+  "f1_alt": "前方から見た試験会場。答案用紙が配られた机が並んでいる。",
+
+  "f2_title": "不審＝不正ではない",
+  "f2_text": "落ちた鉛筆はカンニングペーパーではありません。動く前に、机の上にあるものと、席に座っているのが誰かを読み取りましょう。誤った判断は見逃しと同じだけ高くつき、評判はそのどちらも覚えています。",
+  "f2_alt": "机の上の折りたたまれたメモ。",
+
+  "f3_title": "8つの学校、1つのキャリア",
+  "f3_text": "かえで小からスタートして、全国試験センターを目指しましょう。どの学校にも独自の教室、独自のプレッシャー、独自のハプニングがあります。ラッシュアワーの車の故障から全国統一試験まで。",
+
+  "f4_title": "頼れる道具",
+  "f4_text": "スマホ探知機は近くのスマホを見つけます。ただし手がかりであり、証拠ではありません。試験の前に用品を買いそろえ、使いどきを見極めましょう。",
+  "f4_alt": "手持ち式のスマホ探知機。",
+
+  "f5_title": "監督の装いを整える",
+  "f5_text": "しっかり仕事をこなしてコインを稼ぎ、衣装で使いましょう。トップス、ボトムス、靴、帽子、メガネ、バッジ、そしてこれまで勤めたすべての学校の校章がそろっています。",
+  "f5_alt": "衣装の服とアクセサリー：ブレザー、カーディガン、バケット帽、丸メガネ、腕時計、金のバッジ。",
+
+  "f6_title": "公正に遊べる",
+  "f6_text": "広告なし、ガチャなし、課金を迫るタイマーもなし。ゲームはすべて無料で遊べます。任意の購入はコインと見た目のアイテムだけで、何が手に入るかは常にわかります。",
+  "f6_alt": "金貨の山。",
+
+  "schools_title": "学校",
+  "schools_caption": "はじめての試験会場から、国でいちばん大きな試験まで。",
+
+  "screens_kicker": "スクリーンショット",
+  "screens_title": "ゲームの様子",
+  "screens_note": "ゲーム画面のスクリーンショットは準備中です。それまでは、ゲームのアートをご覧ください。",
+  "shot_room": "試験会場",
+  "shot_schools": "次の学校",
+  "shot_wardrobe": "衣装",
+  "shot_shop": "ショップ",
+  "shot_career": "キャリア",
+
+  "faq_kicker": "質問",
+  "faq_title": "よくある質問",
+  "faq_ads_q": "広告はありますか？",
+  "faq_ads_a": "いいえ。ゲーム内に広告はなく、広告IDも使用しません。",
+  "faq_free_q": "無料ですか？",
+  "faq_free_a": "はい、基本プレイ無料で、課金しなくてもゲームを最後まで遊べます。任意の購入は見た目のアイテムとコインです。ランダム要素はなく、支払う前に何が手に入るかが必ずわかります。",
+  "faq_net_q": "インターネット接続は必要ですか？",
+  "faq_net_a": "いいえ、オフラインで遊べます。許可した場合、ゲームは匿名のプレイ統計とクラッシュレポートを送信します。これは設定からいつでもオフにできます。詳しくは<a href=\"{privacy}\">プライバシーポリシー</a>をご覧ください。",
+  "faq_langs_q": "対応言語は？",
+  "faq_langs_a": "English、Türkçe、Español、Français、日本語、Português (Brasil)、Русскийに対応しています。",
+  "faq_devices_q": "どの端末で遊べますか？",
+  "faq_devices_a": "AndroidスマートフォンとiPhone・iPadです。どちらも近日公開予定です。",
+  "faq_help_q": "購入やデータについて相談したいです。",
+  "faq_help_a": "<a href=\"mailto:{email}\">{email}</a>までメールいただくか、<a href=\"{support}\">サポート</a>ページをご覧ください。",
+
+  "cta_title": "鉛筆を置いてください。試験会場があなたを待っています。",
+
+  "footer_tagline": "試験を監督するモバイルゲーム。",
+  "footer_rights": "All rights reserved.",
+  "footer_links": "リンク",
+  "footer_contact": "お問い合わせ",
+
+  "support_title": "サポート",
+  "support_lead": "ご質問、不具合、届かない購入、データに関するご依頼は、メールでお知らせください。",
+  "support_send": "メールを送る",
+  "support_mail_subject": "Pencils Down サポート",
+  "support_include": "お使いのスマホの機種と、<strong>設定 › このアプリについて</strong>に表示されるゲームのバージョンを添えていただけると助かります。",
+  "support_restore_title": "購入を復元",
+  "support_restore_1": "アイテムパックはGoogle PlayまたはApp Storeのアカウントに紐づいています。再インストール後や新しい端末では、次のどちらかを開いてください。",
+  "support_restore_path_1": "<strong>設定 → 購入 → 購入を復元</strong>、または",
+  "support_restore_path_2": "<strong>ショップ › パック › 購入を復元</strong>。",
+  "support_restore_2": "コインはこの方法では復元されません。コインはアカウントではなく端末に保存されているためです。Androidでは、GoogleのAuto Backup（オンにしている場合）によって、コインを含むゲームのデータを新しいスマホに戻せることがあります。",
+  "support_analytics_title": "利用状況とクラッシュデータをオフにする",
+  "support_analytics_1": "<strong>設定 → プライバシーと規約 → 利用状況とクラッシュ</strong>を開いてオフにしてください。すべての収集がただちに停止し、端末に保存されている分析データも消去されます。収集される内容は<a href=\"{privacy}\">プライバシーポリシー</a>をご覧ください。",
+  "support_delete_title": "データを削除する",
+  "support_delete_subject": "データ削除のリクエスト",
+  "support_delete_1": "ゲームがすでに送信したデータを削除するには、{email_link}までメールしてください。ゲームにはアカウントがないため、データは端末上の識別子で特定されます。その確認方法をご返信したうえで、Googleにデータの削除を依頼します。ゲームをアンインストールすると、端末に保存されたデータはすべて削除されます。",
+  "support_refunds_title": "返金",
+  "support_refunds_1": "お支払いはストアが処理しているため、返金はストアの返金ポリシーに従い、ストアに申請してください。",
+  "support_google_hl": "ja",
+  "support_version_title": "ゲームのバージョン",
+  "support_version_1": "お使いのバージョンは<strong>設定 › このアプリについて</strong>に表示されます。",
+
+  "legal_on_page": "このページの内容",
+  "legal_translation_notice": "この翻訳は便宜上のものです。内容に相違がある場合は<a href=\"{en_url}\" hreflang=\"en\" lang=\"en\">英語版</a>が優先されます。",
+  "legal_other_docs": "関連文書",
+
+  "nf_title": "ページが見つかりません",
+  "nf_text": "お探しのページは存在しません。",
+  "nf_home": "ホームページへ",
+
+  "back_to_top": "ページの先頭へ"
+}

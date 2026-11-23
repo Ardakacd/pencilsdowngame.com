@@ -1,0 +1,133 @@
+{
+  "_note": "Site strings. Values may hold inline HTML. {placeholders} are filled by build.py and must be kept as they are.",
+
+  "lang_name": "Français",
+  "lang_label": "Langue",
+  "skip": "Aller au contenu",
+  "menu": "Menu",
+
+  "nav_home": "Accueil",
+  "nav_features": "Le jeu",
+  "nav_screens": "Captures d'écran",
+  "nav_faq": "FAQ",
+  "nav_support": "Assistance",
+  "nav_privacy": "Confidentialité",
+  "nav_terms": "Conditions d'utilisation",
+  "nav_privacy_long": "Politique de confidentialité",
+
+  "game_subtitle": "Surveillant d'examen",
+  "tagline": "De vraies décisions. De vraies conséquences.",
+
+  "meta_home_title": "Pencils Down: Exam Proctor, un jeu mobile où vous surveillez des examens",
+  "meta_home_desc": "Surveillez des examens : observez la salle, regardez les tables et décidez quand agir. Faites carrière dans huit établissements. Sans pub, jouable hors ligne. Android et iPhone.",
+  "meta_support_title": "Assistance",
+  "meta_support_desc": "Contact, restauration des achats, désactivation des données d'usage, suppression des données et remboursements pour Pencils Down: Exam Proctor.",
+  "meta_privacy_desc": "Ce que Pencils Down: Exam Proctor enregistre et envoie, et vos choix.",
+  "meta_terms_desc": "La licence, les achats, les pièces et les remboursements de Pencils Down: Exam Proctor.",
+
+  "hero_kicker": "Un jeu mobile où vous surveillez des examens",
+  "hero_pitch": "Le surveillant, c'est vous. Observez la salle, regardez ce qu'il y a sur les tables, puis décidez : avertir, confisquer, exclure, ou laisser passer. Étrange n'est pas coupable. Faites carrière dans huit établissements, des Érables au Centre national des examens, gagnez des pièces et habillez votre surveillant. Sans pub, entièrement jouable sans payer, et hors ligne.",
+  "hero_art_alt": "Une salle d'examen vide le soir : des rangées de tables avec des copies, un tableau noir et une horloge.",
+  "icon_alt": "Icône de l'app Pencils Down : des élèves qui écrivent à leur table",
+
+  "store_coming_soon": "Bientôt disponible",
+  "store_get_android": "Disponible sur",
+  "store_get_ios": "Télécharger dans l'",
+  "store_soon_note": "Bientôt sur Android et iPhone/iPad.",
+
+  "fact_ads": "Sans pub",
+  "fact_free": "Gratuit",
+  "fact_offline": "Jouable hors ligne",
+  "fact_langs": "7 langues",
+
+  "features_kicker": "Le principe",
+  "features_title": "Chaque examen, une salle pleine de petites décisions",
+
+  "f1_title": "Observez la salle",
+  "f1_text": "Un regard de côté, une main sous la table, un murmure deux rangs plus loin. Vous voyez ce que voit un surveillant, et vous décidez quoi en faire : avertir, confisquer, exclure, ou laisser passer.",
+  "f1_alt": "Une salle d'examen vue de face, les tables alignées avec les copies.",
+
+  "f2_title": "Étrange n'est pas coupable",
+  "f2_text": "Un crayon tombé n'est pas une antisèche. Regardez ce qu'il y a sur les tables et qui est assis avant d'agir. Une erreur coûte autant qu'un oubli, et votre réputation se souvient des deux.",
+  "f2_alt": "Un mot plié sur une table.",
+
+  "f3_title": "Huit établissements, une carrière",
+  "f3_text": "Commencez aux Érables et gravissez les échelons jusqu'au Centre national des examens. Chaque établissement a ses salles, sa pression et ses surprises, d'une panne de voiture à l'heure de pointe à un examen national.",
+
+  "f4_title": "Les bons outils",
+  "f4_text": "Le détecteur de téléphones repère les appareils à proximité : une piste, pas une preuve. Faites le plein de fournitures avant un examen et décidez quand elles valent la peine.",
+  "f4_alt": "Un détecteur portatif.",
+
+  "f5_title": "Habillez votre surveillant",
+  "f5_text": "Gagnez des pièces en faisant bien votre travail et dépensez-les dans la Garde-robe : hauts, pantalons, chaussures, couvre-chefs, lunettes, insignes et l'écusson de chaque établissement où vous avez travaillé.",
+  "f5_alt": "Vêtements et accessoires de la Garde-robe : un blazer, un cardigan, un bob, des lunettes rondes, une montre et un insigne doré.",
+
+  "f6_title": "Un jeu loyal",
+  "f6_text": "Pas de pub, pas de coffres à butin, pas de minuteurs qui vous poussent à payer. Tout le jeu est jouable gratuitement ; les achats facultatifs sont des pièces et des tenues, et vous savez toujours ce que vous obtenez.",
+  "f6_alt": "Un tas de pièces d'or.",
+
+  "schools_title": "Les établissements",
+  "schools_caption": "De votre première salle d'examen au plus grand examen du pays.",
+
+  "screens_kicker": "Captures d'écran",
+  "screens_title": "Un aperçu",
+  "screens_note": "Les captures du jeu arrivent bientôt. En attendant, un aperçu de ses illustrations.",
+  "shot_room": "La salle d'examen",
+  "shot_schools": "Votre prochain établissement",
+  "shot_wardrobe": "La Garde-robe",
+  "shot_shop": "La Boutique",
+  "shot_career": "Carrière",
+
+  "faq_kicker": "Questions",
+  "faq_title": "Questions fréquentes",
+  "faq_ads_q": "Y a-t-il des pubs ?",
+  "faq_ads_a": "Non. Le jeu ne contient aucune publicité et n'utilise pas d'identifiant publicitaire.",
+  "faq_free_q": "Est-ce gratuit ?",
+  "faq_free_a": "Oui, le jeu est gratuit et vous pouvez y jouer en entier sans payer. Les achats facultatifs sont des tenues et des pièces. Rien n'est aléatoire : vous savez toujours ce que vous obtenez avant de payer.",
+  "faq_net_q": "Faut-il une connexion Internet ?",
+  "faq_net_a": "Non, le jeu fonctionne hors ligne. Si vous l'autorisez, il envoie des statistiques de jeu anonymes et des rapports de plantage ; vous pouvez désactiver cet envoi à tout moment dans les Paramètres. Voir la <a href=\"{privacy}\">Politique de confidentialité</a>.",
+  "faq_langs_q": "Quelles langues sont disponibles ?",
+  "faq_langs_a": "English, Türkçe, Español, Français, 日本語, Português (Brasil) et Русский.",
+  "faq_devices_q": "Sur quels appareils puis-je jouer ?",
+  "faq_devices_a": "Les téléphones Android, ainsi que l'iPhone et l'iPad. Les deux versions arrivent bientôt.",
+  "faq_help_q": "J'ai besoin d'aide pour un achat ou mes données.",
+  "faq_help_a": "Écrivez à <a href=\"mailto:{email}\">{email}</a>, ou consultez la page <a href=\"{support}\">Assistance</a>.",
+
+  "cta_title": "Posez vos crayons. Votre salle d'examen vous attend.",
+
+  "footer_tagline": "Un jeu mobile où vous surveillez des examens.",
+  "footer_rights": "Tous droits réservés.",
+  "footer_links": "Liens",
+  "footer_contact": "Contact",
+
+  "support_title": "Assistance",
+  "support_lead": "Une question, un bug, un achat qui n'est pas arrivé ou une demande concernant vos données : écrivez-nous.",
+  "support_send": "Envoyer un e-mail",
+  "support_mail_subject": "Assistance Pencils Down",
+  "support_include": "Indiquez si possible le modèle de votre téléphone et la version du jeu, affichée dans <strong>Paramètres › À propos</strong>.",
+  "support_restore_title": "Restaurer les achats",
+  "support_restore_1": "Les packs d'objets sont liés à votre compte Google Play ou App Store. Après une réinstallation ou sur un nouvel appareil, ouvrez au choix :",
+  "support_restore_path_1": "<strong>Paramètres → Achats → Restaurer les achats</strong>, ou",
+  "support_restore_path_2": "<strong>Boutique › Packs › Restaurer les achats</strong>.",
+  "support_restore_2": "Les pièces ne sont pas restaurées de cette façon : elles sont enregistrées sur votre appareil, pas dans un compte. Sur Android, la sauvegarde automatique de Google (si elle est activée) peut récupérer les données du jeu, pièces comprises, sur un nouveau téléphone.",
+  "support_analytics_title": "Désactiver les données d'usage et de plantage",
+  "support_analytics_1": "Allez dans <strong>Paramètres → Confidentialité et conditions → Données d'usage et plantages</strong> et désactivez l'option. Toute collecte s'arrête aussitôt et les données d'analyse stockées sur votre appareil sont effacées. Voir la <a href=\"{privacy}\">Politique de confidentialité</a> pour savoir ce qui est collecté.",
+  "support_delete_title": "Supprimer vos données",
+  "support_delete_subject": "Demande de suppression de données",
+  "support_delete_1": "Pour supprimer les données déjà envoyées par le jeu, écrivez à {email_link}. Le jeu n'a pas de comptes : ses données sont rattachées à un identifiant présent sur votre appareil. Nous vous expliquerons comment le trouver, puis nous demanderons à Google de supprimer les données. Désinstaller le jeu efface tout ce qui est stocké sur l'appareil.",
+  "support_refunds_title": "Remboursements",
+  "support_refunds_1": "Les paiements sont gérés par la boutique d'applications : c'est auprès d'elle que se demandent les remboursements, selon sa politique de remboursement :",
+  "support_google_hl": "fr",
+  "support_version_title": "Version du jeu",
+  "support_version_1": "Votre version est affichée dans <strong>Paramètres › À propos</strong>.",
+
+  "legal_on_page": "Sur cette page",
+  "legal_translation_notice": "Cette traduction est fournie pour plus de commodité ; la <a href=\"{en_url}\" hreflang=\"en\" lang=\"en\">version anglaise</a> fait foi.",
+  "legal_other_docs": "Voir aussi",
+
+  "nf_title": "Page introuvable",
+  "nf_text": "Cette page n'existe pas.",
+  "nf_home": "Retour à l'accueil",
+
+  "back_to_top": "Haut de page"
+}

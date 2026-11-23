@@ -1,0 +1,133 @@
+{
+  "_note": "Site strings. Values may hold inline HTML. {placeholders} are filled by build.py and must be kept as they are.",
+
+  "lang_name": "English",
+  "lang_label": "Language",
+  "skip": "Skip to content",
+  "menu": "Menu",
+
+  "nav_home": "Home",
+  "nav_features": "The game",
+  "nav_screens": "Screenshots",
+  "nav_faq": "FAQ",
+  "nav_support": "Support",
+  "nav_privacy": "Privacy",
+  "nav_terms": "Terms of Use",
+  "nav_privacy_long": "Privacy Policy",
+
+  "game_subtitle": "Exam Proctor",
+  "tagline": "Real decisions. Real consequences.",
+
+  "meta_home_title": "Pencils Down: Exam Proctor, a mobile game about supervising exams",
+  "meta_home_desc": "Supervise exams: watch the room, read the desks, and decide when to act. Build a career across eight schools. No ads, plays offline. Android and iPhone.",
+  "meta_support_title": "Support",
+  "meta_support_desc": "Contact, restoring purchases, turning off usage data, data deletion and refunds for Pencils Down: Exam Proctor.",
+  "meta_privacy_desc": "What Pencils Down: Exam Proctor stores and sends, and your choices.",
+  "meta_terms_desc": "The licence, purchases, coins and refunds for Pencils Down: Exam Proctor.",
+
+  "hero_kicker": "A mobile game about supervising exams",
+  "hero_pitch": "You are the supervisor. Watch the room, read what's on the desks, and decide whether to warn, confiscate or remove, or let a moment pass. Odd isn't guilty. Build a career across eight schools, from Maple Elementary to the National Examination Centre, earn coins and dress your supervisor. No ads, fully playable without paying, and it plays offline.",
+  "hero_art_alt": "An empty exam room in the evening: rows of desks with exam papers, a blackboard and a clock.",
+  "icon_alt": "Pencils Down app icon: students writing at their desks",
+
+  "store_coming_soon": "Coming soon",
+  "store_get_android": "Get it on",
+  "store_get_ios": "Download on the",
+  "store_soon_note": "Coming soon to Android and iPhone/iPad.",
+
+  "fact_ads": "No ads",
+  "fact_free": "Free to play",
+  "fact_offline": "Plays offline",
+  "fact_langs": "7 languages",
+
+  "features_kicker": "How it plays",
+  "features_title": "Every exam is a room full of small decisions",
+
+  "f1_title": "Watch the room",
+  "f1_text": "A glance to the side, a hand under the desk, a whisper two rows back. You see what a supervisor sees, and you decide what to do about it: warn, confiscate, remove, or let it go.",
+  "f1_alt": "An exam room seen from the front, desks set out with papers.",
+
+  "f2_title": "Odd isn't guilty",
+  "f2_text": "A dropped pencil is not a cheat sheet. Read what's on the desks and who is in the seats before you act. A wrong call costs you as much as a missed one, and your reputation remembers both.",
+  "f2_alt": "A folded note on a desk.",
+
+  "f3_title": "Eight schools, one career",
+  "f3_text": "Start at Maple Elementary and work your way up to the National Examination Centre. Each school brings its own rooms, its own pressure and its own surprises, from a rush-hour car breakdown to a national examination.",
+
+  "f4_title": "The right tools",
+  "f4_text": "The Phone Detector finds phones nearby: a lead, not proof. Stock up on supplies before an exam and decide when they are worth using.",
+  "f4_alt": "A handheld phone detector.",
+
+  "f5_title": "Dress your supervisor",
+  "f5_text": "Earn coins by doing the job well and spend them in the Wardrobe: tops, trousers, shoes, hats, glasses, badges and the crest of every school you have worked at.",
+  "f5_alt": "Clothes and accessories from the Wardrobe: a blazer, a cardigan, a bucket hat, round glasses, a watch and a gold badge.",
+
+  "f6_title": "Fair to play",
+  "f6_text": "No ads, no loot boxes, no timers asking you to pay. The whole game is playable for free; optional purchases are coins and looks, and you always know what you get.",
+  "f6_alt": "A pile of gold coins.",
+
+  "schools_title": "The schools",
+  "schools_caption": "From your first exam room to the country's biggest test.",
+
+  "screens_kicker": "Screenshots",
+  "screens_title": "A look inside",
+  "screens_note": "In-game screenshots are on their way. Until then, a look at the game's art.",
+  "shot_room": "The exam room",
+  "shot_schools": "Your next school",
+  "shot_wardrobe": "The Wardrobe",
+  "shot_shop": "The Shop",
+  "shot_career": "Career",
+
+  "faq_kicker": "Questions",
+  "faq_title": "Frequently asked",
+  "faq_ads_q": "Does it have ads?",
+  "faq_ads_a": "No. There are no ads in the game, and it doesn't use an advertising identifier.",
+  "faq_free_q": "Is it free?",
+  "faq_free_a": "Yes, it's free to play, and you can play the whole game without paying. Optional purchases are looks and coins. Nothing is random: you always know what you get before you pay.",
+  "faq_net_q": "Does it need an internet connection?",
+  "faq_net_a": "No, it plays offline. If you allow it, the game sends anonymous play statistics and crash reports; you can turn this off at any time in Settings. See the <a href=\"{privacy}\">Privacy Policy</a>.",
+  "faq_langs_q": "Which languages does it support?",
+  "faq_langs_a": "English, Türkçe, Español, Français, 日本語, Português (Brasil) and Русский.",
+  "faq_devices_q": "Which devices can I play on?",
+  "faq_devices_a": "Android phones and iPhone and iPad. Both versions are coming soon.",
+  "faq_help_q": "I need help with a purchase or my data.",
+  "faq_help_a": "Write to <a href=\"mailto:{email}\">{email}</a>, or see the <a href=\"{support}\">Support</a> page.",
+
+  "cta_title": "Pencils down. Your exam room is waiting.",
+
+  "footer_tagline": "A mobile game about supervising exams.",
+  "footer_rights": "All rights reserved.",
+  "footer_links": "Links",
+  "footer_contact": "Contact",
+
+  "support_title": "Support",
+  "support_lead": "Questions, a bug, a purchase that didn't arrive, or a data request: write to us.",
+  "support_send": "Send an email",
+  "support_mail_subject": "Pencils Down support",
+  "support_include": "It helps to include your phone model and the game version, shown in <strong>Settings › About</strong>.",
+  "support_restore_title": "Restore purchases",
+  "support_restore_1": "Item packs are linked to your Google Play or App Store account. After a reinstall or on a new device, open either:",
+  "support_restore_path_1": "<strong>Settings → Purchases → Restore purchases</strong>, or",
+  "support_restore_path_2": "<strong>Shop › Packs › Restore purchases</strong>.",
+  "support_restore_2": "Coins are not restored this way: they are stored on your device, not in an account. On Android, Google's Auto Backup (if you have it on) can bring the game's data, coins included, back on a new phone.",
+  "support_analytics_title": "Turn off usage and crash data",
+  "support_analytics_1": "Go to <strong>Settings → Privacy and terms → Usage and crash data</strong> and turn it off. This stops all collection at once and clears the analytics data stored on your device. See the <a href=\"{privacy}\">Privacy Policy</a> for what is collected.",
+  "support_delete_title": "Delete your data",
+  "support_delete_subject": "Data deletion request",
+  "support_delete_1": "To delete data the game has already sent, email {email_link}. The game has no accounts, so its data is identified by an identifier on your device; we will reply with how to find it, then ask Google to delete the data. Uninstalling the game deletes everything stored on the device.",
+  "support_refunds_title": "Refunds",
+  "support_refunds_1": "Payments are handled by the store, so refunds are requested there, under its refund policy:",
+  "support_google_hl": "en",
+  "support_version_title": "Game version",
+  "support_version_1": "The version you have is shown in <strong>Settings › About</strong>.",
+
+  "legal_on_page": "On this page",
+  "legal_translation_notice": "This is a translation for convenience; the <a href=\"{en_url}\" hreflang=\"en\" lang=\"en\">English version</a> prevails.",
+  "legal_other_docs": "Also see",
+
+  "nf_title": "Page not found",
+  "nf_text": "That page doesn't exist.",
+  "nf_home": "Go to the home page",
+
+  "back_to_top": "Back to top"
+}

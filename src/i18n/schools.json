@@ -1,0 +1,181 @@
+{
+ "_source": "Generated from the game's localization (school.<id>, career.kind.<kind>). Order = career order.",
+ "schools": [
+  {
+   "id": "maple",
+   "art": "maple",
+   "name": {
+    "en": "Maple Elementary School",
+    "tr": "Çınar İlkokulu",
+    "es": "Escuela Primaria Los Arces",
+    "fr": "École élémentaire des Érables",
+    "ja": "かえで小学校",
+    "pt-BR": "Escola Municipal Ipê",
+    "ru": "Начальная школа «Клён»"
+   },
+   "kind": {
+    "en": "Elementary school",
+    "tr": "İlkokul",
+    "es": "Escuela primaria",
+    "fr": "École élémentaire",
+    "ja": "小学校",
+    "pt-BR": "Escola de ensino fundamental",
+    "ru": "Начальная школа"
+   }
+  },
+  {
+   "id": "riverside",
+   "art": "riverside",
+   "name": {
+    "en": "Riverside Middle School",
+    "tr": "Dereboyu Ortaokulu",
+    "es": "Escuela Secundaria La Ribera",
+    "fr": "Collège des Rives",
+    "ja": "川辺中学校",
+    "pt-BR": "Escola Estadual Beira-Rio",
+    "ru": "Школа «Заречье»"
+   },
+   "kind": {
+    "en": "Middle school",
+    "tr": "Ortaokul",
+    "es": "Escuela secundaria",
+    "fr": "Collège",
+    "ja": "中学校",
+    "pt-BR": "Escola fundamental II",
+    "ru": "Средняя школа"
+   }
+  },
+  {
+   "id": "vocational",
+   "art": "eastgate",
+   "name": {
+    "en": "Eastgate Evening College",
+    "tr": "Doğukapı Akşam Okulu",
+    "es": "Colegio Puerta Oriente",
+    "fr": "Cours du soir de la Porte-Est",
+    "ja": "東門夜間学院",
+    "pt-BR": "Colégio Noturno Portal Leste",
+    "ru": "Колледж «Восточные ворота»"
+   },
+   "kind": {
+    "en": "Adult evening and vocational college",
+    "tr": "Yetişkinler için akşam ve meslek okulu",
+    "es": "Colegio nocturno y técnico para adultos",
+    "fr": "Cours du soir et formation pour adultes",
+    "ja": "社会人向け夜間・職業学校",
+    "pt-BR": "Colégio noturno e técnico para adultos",
+    "ru": "Вечерний колледж для взрослых"
+   }
+  },
+  {
+   "id": "standard",
+   "art": "cityhigh",
+   "name": {
+    "en": "City High School",
+    "tr": "Kent Lisesi",
+    "es": "Colegio Central",
+    "fr": "Lycée du Centre",
+    "ja": "市立中央高校",
+    "pt-BR": "Colégio Central",
+    "ru": "Городской лицей"
+   },
+   "kind": {
+    "en": "High school",
+    "tr": "Lise",
+    "es": "Colegio de bachillerato",
+    "fr": "Lycée",
+    "ja": "高校",
+    "pt-BR": "Colégio de ensino médio",
+    "ru": "Лицей"
+   }
+  },
+  {
+   "id": "brightpath",
+   "art": "brightpath",
+   "name": {
+    "en": "Brightpath Prep Centre",
+    "tr": "Başarı Yolu Kurs Merkezi",
+    "es": "Academia Buen Rumbo",
+    "fr": "Institut Clairvoie",
+    "ja": "ブライト進学塾",
+    "pt-BR": "Cursinho Rumo Certo",
+    "ru": "Учебный центр «Ориентир»"
+   },
+   "kind": {
+    "en": "Private exam-prep centre",
+    "tr": "Özel sınav hazırlık kursu",
+    "es": "Academia preuniversitaria privada",
+    "fr": "Prépa privée aux examens",
+    "ja": "進学塾",
+    "pt-BR": "Cursinho preparatório particular",
+    "ru": "Частные подготовительные курсы"
+   }
+  },
+  {
+   "id": "elite",
+   "art": "kingsley",
+   "name": {
+    "en": "Kingsley Academy",
+    "tr": "Kale Koleji",
+    "es": "Colegio El Castillo",
+    "fr": "Institut du Château",
+    "ja": "城山学院",
+    "pt-BR": "Colégio Castelo Real",
+    "ru": "Гимназия «Цитадель»"
+   },
+   "kind": {
+    "en": "Selective academy",
+    "tr": "Seçkin kolej",
+    "es": "Colegio selectivo",
+    "fr": "Établissement sélectif",
+    "ja": "難関私立校",
+    "pt-BR": "Colégio de elite",
+    "ru": "Элитная гимназия"
+   }
+  },
+  {
+   "id": "state-university",
+   "art": "stateuni",
+   "name": {
+    "en": "State University",
+    "tr": "Devlet Üniversitesi",
+    "es": "Universidad Estatal",
+    "fr": "Université d'État",
+    "ja": "県立大学",
+    "pt-BR": "Universidade Estadual",
+    "ru": "Государственный университет"
+   },
+   "kind": {
+    "en": "University",
+    "tr": "Üniversite",
+    "es": "Universidad",
+    "fr": "Université",
+    "ja": "大学",
+    "pt-BR": "Universidade",
+    "ru": "Университет"
+   }
+  },
+  {
+   "id": "national",
+   "art": "national",
+   "name": {
+    "en": "National Examination Centre",
+    "tr": "Ulusal Sınav Merkezi",
+    "es": "Centro Nacional de Exámenes",
+    "fr": "Centre national des examens",
+    "ja": "全国試験センター",
+    "pt-BR": "Centro Nacional de Exames",
+    "ru": "Национальный центр тестов"
+   },
+   "kind": {
+    "en": "National examinations body",
+    "tr": "Ulusal sınav kurumu",
+    "es": "Organismo nacional de exámenes",
+    "fr": "Organisme national des examens",
+    "ja": "全国試験機関",
+    "pt-BR": "Órgão nacional de exames",
+    "ru": "Национальный экзаменационный орган"
+   }
+  }
+ ]
+}

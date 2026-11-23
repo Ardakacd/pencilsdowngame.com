@@ -1,0 +1,133 @@
+{
+  "_note": "Site strings. Values may hold inline HTML. {placeholders} are filled by build.py and must be kept as they are.",
+
+  "lang_name": "Türkçe",
+  "lang_label": "Dil",
+  "skip": "İçeriğe geç",
+  "menu": "Menü",
+
+  "nav_home": "Ana sayfa",
+  "nav_features": "Oyun",
+  "nav_screens": "Ekran görüntüleri",
+  "nav_faq": "SSS",
+  "nav_support": "Destek",
+  "nav_privacy": "Gizlilik",
+  "nav_terms": "Kullanım Koşulları",
+  "nav_privacy_long": "Gizlilik Politikası",
+
+  "game_subtitle": "Sınav Gözetmeni",
+  "tagline": "Gerçek kararlar. Gerçek sonuçlar.",
+
+  "meta_home_title": "Pencils Down: Exam Proctor, sınav gözetmenliği üzerine bir mobil oyun",
+  "meta_home_desc": "Sınavlarda gözetmenlik yapın: salonu izleyin, sıralardakini okuyun, ne zaman müdahale edeceğinize karar verin. Sekiz okulda kariyer yapın. Reklam yok, çevrimdışı oynanır. Android ve iPhone.",
+  "meta_support_title": "Destek",
+  "meta_support_desc": "Pencils Down: Exam Proctor için iletişim, satın alımları geri yükleme, kullanım verilerini kapatma, veri silme ve iadeler.",
+  "meta_privacy_desc": "Pencils Down: Exam Proctor neleri saklar ve gönderir, sizin seçenekleriniz neler.",
+  "meta_terms_desc": "Pencils Down: Exam Proctor için lisans, satın alımlar, altınlar ve iadeler.",
+
+  "hero_kicker": "Sınav gözetmenliği üzerine bir mobil oyun",
+  "hero_pitch": "Gözetmen sizsiniz. Salonu izleyin, sıraların üstünde ne olduğuna bakın; uyarmaya, el koymaya, sınavdan çıkarmaya ya da o anı geçiştirmeye siz karar verin. Tuhaf, suçlu demek değil. Çınar İlkokulu'ndan Ulusal Sınav Merkezi'ne sekiz okulda kariyer yapın, altın kazanın ve gözetmeninizi giydirin. Reklam yok, para ödemeden baştan sona oynanır ve çevrimdışı çalışır.",
+  "hero_art_alt": "Akşam saatlerinde boş bir sınav salonu: üzerinde sınav kâğıtları olan sıra sıra masalar, bir kara tahta ve bir saat.",
+  "icon_alt": "Pencils Down uygulama simgesi: sıralarında yazı yazan öğrenciler",
+
+  "store_coming_soon": "Çok yakında",
+  "store_get_android": "Şimdi indirin",
+  "store_get_ios": "Şimdi indirin",
+  "store_soon_note": "Android ve iPhone/iPad için çok yakında.",
+
+  "fact_ads": "Reklam yok",
+  "fact_free": "Ücretsiz oynanır",
+  "fact_offline": "Çevrimdışı oynanır",
+  "fact_langs": "7 dil",
+
+  "features_kicker": "Nasıl oynanır",
+  "features_title": "Her sınav, küçük kararlarla dolu bir salon",
+
+  "f1_title": "Salonu izleyin",
+  "f1_text": "Yana kaçan bir bakış, sıranın altında bir el, iki sıra geride bir fısıltı. Bir gözetmenin gördüğünü görürsünüz ve ne yapacağınıza siz karar verirsiniz: uyarmak, el koymak, sınavdan çıkarmak ya da görmezden gelmek.",
+  "f1_alt": "Önden görülen bir sınav salonu, üzerinde kâğıtlar olan masalar.",
+
+  "f2_title": "Tuhaf, suçlu demek değil",
+  "f2_text": "Yere düşen bir kalem kopya kâğıdı değildir. Harekete geçmeden önce sıraların üstünde ne olduğuna ve kimin oturduğuna bakın. Yanlış bir karar size gözden kaçan bir kopya kadar pahalıya patlar ve itibarınız ikisini de unutmaz.",
+  "f2_alt": "Bir sıranın üstünde katlanmış bir not.",
+
+  "f3_title": "Sekiz okul, tek kariyer",
+  "f3_text": "Çınar İlkokulu'nda başlayın ve Ulusal Sınav Merkezi'ne kadar yükselin. Her okulun kendi salonları, kendi baskısı ve kendi sürprizleri var: iş çıkışı trafiğinde bozulan arabadan ulusal sınava kadar.",
+
+  "f4_title": "Doğru aletler",
+  "f4_text": "Telefon dedektörü yakındaki telefonları bulur: ipucu, kanıt değil. Sınavdan önce malzemelerinizi tamamlayın ve ne zaman kullanmaya değeceğine siz karar verin.",
+  "f4_alt": "Elde taşınan bir telefon dedektörü.",
+
+  "f5_title": "Gözetmeninizi giydirin",
+  "f5_text": "İşinizi iyi yaparak altın kazanın ve Gardırop'ta harcayın: üstler, pantolonlar, ayakkabılar, şapkalar, gözlükler, rozetler ve çalıştığınız her okulun arması.",
+  "f5_alt": "Gardırop'tan kıyafet ve aksesuarlar: blazer ceket, hırka, balıkçı şapkası, yuvarlak gözlük, kol saati ve altın rozet.",
+
+  "f6_title": "Adil bir oyun",
+  "f6_text": "Reklam yok, sürpriz kutu yok, para isteyen bekleme süreleri yok. Oyunun tamamı ücretsiz oynanır; isteğe bağlı satın alımlar altın ve görünümlerden ibarettir ve ne aldığınızı her zaman bilirsiniz.",
+  "f6_alt": "Bir yığın altın.",
+
+  "schools_title": "Okullar",
+  "schools_caption": "İlk sınav salonunuzdan ülkenin en büyük sınavına.",
+
+  "screens_kicker": "Ekran görüntüleri",
+  "screens_title": "İçeriden bir bakış",
+  "screens_note": "Oyun içi ekran görüntüleri yolda. O zamana kadar oyunun çizimlerine bir göz atın.",
+  "shot_room": "Sınav salonu",
+  "shot_schools": "Sıradaki okulunuz",
+  "shot_wardrobe": "Gardırop",
+  "shot_shop": "Mağaza",
+  "shot_career": "Kariyer",
+
+  "faq_kicker": "Sorular",
+  "faq_title": "Sık sorulan sorular",
+  "faq_ads_q": "Oyunda reklam var mı?",
+  "faq_ads_a": "Hayır. Oyunda hiç reklam yok ve reklam kimliği kullanılmıyor.",
+  "faq_free_q": "Ücretsiz mi?",
+  "faq_free_a": "Evet, ücretsiz oynanır ve oyunun tamamını para ödemeden oynayabilirsiniz. İsteğe bağlı satın alımlar görünümler ve altındır. Hiçbir şey rastgele değildir: ödeme yapmadan önce ne alacağınızı her zaman bilirsiniz.",
+  "faq_net_q": "İnternet bağlantısı gerekiyor mu?",
+  "faq_net_a": "Hayır, çevrimdışı oynanır. İzin verirseniz oyun anonim oyun istatistikleri ve çökme raporları gönderir; bunu istediğiniz zaman Ayarlar'dan kapatabilirsiniz. Ayrıntılar için <a href=\"{privacy}\">Gizlilik Politikası</a>'na bakın.",
+  "faq_langs_q": "Hangi dilleri destekliyor?",
+  "faq_langs_a": "English, Türkçe, Español, Français, 日本語, Português (Brasil) ve Русский.",
+  "faq_devices_q": "Hangi cihazlarda oynayabilirim?",
+  "faq_devices_a": "Android telefonlarda, iPhone ve iPad'de. İki sürüm de çok yakında geliyor.",
+  "faq_help_q": "Bir satın alım veya verilerim için yardıma ihtiyacım var.",
+  "faq_help_a": "<a href=\"mailto:{email}\">{email}</a> adresine yazın ya da <a href=\"{support}\">Destek</a> sayfasına bakın.",
+
+  "cta_title": "Kalemler bırakılsın. Sınav salonunuz sizi bekliyor.",
+
+  "footer_tagline": "Sınav gözetmenliği üzerine bir mobil oyun.",
+  "footer_rights": "Tüm hakları saklıdır.",
+  "footer_links": "Bağlantılar",
+  "footer_contact": "İletişim",
+
+  "support_title": "Destek",
+  "support_lead": "Bir sorunuz, bir hata, gelmeyen bir satın alım veya bir veri talebiniz varsa bize yazın.",
+  "support_send": "E-posta gönderin",
+  "support_mail_subject": "Pencils Down destek",
+  "support_include": "Telefonunuzun modelini ve <strong>Ayarlar › Hakkında</strong> bölümünde gösterilen oyun sürümünü yazarsanız yardımcı olur.",
+  "support_restore_title": "Satın alımları geri yükleme",
+  "support_restore_1": "Ürün paketleri Google Play veya App Store hesabınıza bağlıdır. Yeniden yüklemeden sonra veya yeni bir cihazda şunlardan birini açın:",
+  "support_restore_path_1": "<strong>Ayarlar → Satın alımlar → Satın alımları geri yükle</strong> veya",
+  "support_restore_path_2": "<strong>Mağaza › Paketler › Satın alımları geri yükle</strong>.",
+  "support_restore_2": "Altınlar bu yolla geri gelmez: bir hesapta değil, cihazınızda saklanırlar. Android'de, açıksa Google'ın Otomatik Yedekleme özelliği, altınlar dahil oyunun verilerini yeni bir telefonda geri getirebilir.",
+  "support_analytics_title": "Kullanım ve çökme verilerini kapatma",
+  "support_analytics_1": "<strong>Ayarlar → Gizlilik ve koşullar → Kullanım ve çökme verileri</strong> seçeneğini kapatın. Bu, tüm toplamayı hemen durdurur ve cihazınızda tutulan analiz verilerini temizler. Neyin toplandığını <a href=\"{privacy}\">Gizlilik Politikası</a>'nda bulabilirsiniz.",
+  "support_delete_title": "Verilerinizi sildirme",
+  "support_delete_subject": "Veri silme talebi",
+  "support_delete_1": "Oyunun daha önce gönderdiği verilerin silinmesi için {email_link} adresine yazın. Oyunda hesap olmadığı için veriler cihazınızdaki bir kimlikle tanınır; bu kimliği nasıl bulacağınızı yanıtımızda söyler, ardından Google'dan verileri silmesini isteriz. Oyunu kaldırmak, cihazda saklanan her şeyi siler.",
+  "support_refunds_title": "İadeler",
+  "support_refunds_1": "Ödemeleri mağaza yürüttüğü için iade talepleri, mağazanın iade politikasına göre oraya iletilir:",
+  "support_google_hl": "tr",
+  "support_version_title": "Oyun sürümü",
+  "support_version_1": "Sizdeki sürüm <strong>Ayarlar › Hakkında</strong> bölümünde gösterilir.",
+
+  "legal_on_page": "Bu sayfada",
+  "legal_translation_notice": "",
+  "legal_other_docs": "Ayrıca bakın",
+
+  "nf_title": "Sayfa bulunamadı",
+  "nf_text": "Böyle bir sayfa yok.",
+  "nf_home": "Ana sayfaya dönün",
+
+  "back_to_top": "Başa dön"
+}

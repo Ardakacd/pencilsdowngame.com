@@ -1,0 +1,133 @@
+{
+  "_note": "Site strings. Values may hold inline HTML. {placeholders} are filled by build.py and must be kept as they are.",
+
+  "lang_name": "Português (Brasil)",
+  "lang_label": "Idioma",
+  "skip": "Pular para o conteúdo",
+  "menu": "Menu",
+
+  "nav_home": "Início",
+  "nav_features": "O jogo",
+  "nav_screens": "Capturas de tela",
+  "nav_faq": "Perguntas",
+  "nav_support": "Suporte",
+  "nav_privacy": "Privacidade",
+  "nav_terms": "Termos de uso",
+  "nav_privacy_long": "Política de privacidade",
+
+  "game_subtitle": "Fiscal de provas",
+  "tagline": "Decisões reais. Consequências reais.",
+
+  "meta_home_title": "Pencils Down: Exam Proctor, um jogo para celular sobre fiscalizar provas",
+  "meta_home_desc": "Fiscalize provas: observe a sala, repare no que há nas carteiras e decida quando agir. Construa uma carreira em oito escolas. Sem anúncios, funciona offline. Android e iPhone.",
+  "meta_support_title": "Suporte",
+  "meta_support_desc": "Contato, restauração de compras, desativação dos dados de uso, exclusão de dados e reembolsos do Pencils Down: Exam Proctor.",
+  "meta_privacy_desc": "O que o Pencils Down: Exam Proctor armazena e envia, e as suas escolhas.",
+  "meta_terms_desc": "A licença, as compras, as moedas e os reembolsos do Pencils Down: Exam Proctor.",
+
+  "hero_kicker": "Um jogo para celular sobre fiscalizar provas",
+  "hero_pitch": "Você é o fiscal. Observe a sala, repare no que há nas carteiras e decida se vai advertir, confiscar ou eliminar, ou deixar o momento passar. Estranho não é culpado. Construa uma carreira em oito escolas, da Escola Municipal Ipê ao Centro Nacional de Exames, ganhe moedas e vista o seu fiscal. Sem anúncios, dá para jogar tudo sem pagar e funciona offline.",
+  "hero_art_alt": "Uma sala de prova vazia ao entardecer: fileiras de carteiras com provas, um quadro-negro e um relógio.",
+  "icon_alt": "Ícone do app Pencils Down: alunos escrevendo em suas carteiras",
+
+  "store_coming_soon": "Em breve",
+  "store_get_android": "Disponível no",
+  "store_get_ios": "Disponível na",
+  "store_soon_note": "Em breve para Android e iPhone/iPad.",
+
+  "fact_ads": "Sem anúncios",
+  "fact_free": "Grátis para jogar",
+  "fact_offline": "Funciona offline",
+  "fact_langs": "7 idiomas",
+
+  "features_kicker": "Como se joga",
+  "features_title": "Cada prova é uma sala cheia de pequenas decisões",
+
+  "f1_title": "Observe a sala",
+  "f1_text": "Uma olhada para o lado, uma mão embaixo da carteira, um cochicho duas fileiras atrás. Você vê o que um fiscal vê e decide o que fazer: advertir, confiscar, eliminar ou deixar passar.",
+  "f1_alt": "Uma sala de prova vista de frente, com as carteiras arrumadas e as provas em cima.",
+
+  "f2_title": "Estranho não é culpado",
+  "f2_text": "Um lápis que caiu não é uma cola. Repare no que há nas carteiras e em quem está sentado antes de agir. Uma decisão errada custa tanto quanto uma que você deixou passar, e a sua reputação não esquece nenhuma das duas.",
+  "f2_alt": "Um bilhete dobrado sobre uma carteira.",
+
+  "f3_title": "Oito escolas, uma carreira",
+  "f3_text": "Comece na Escola Municipal Ipê e vá subindo até o Centro Nacional de Exames. Cada escola traz suas próprias salas, sua própria pressão e suas próprias surpresas, de um carro quebrado na hora do rush a um exame nacional.",
+
+  "f4_title": "As ferramentas certas",
+  "f4_text": "O detector de celular encontra telefones por perto: é uma pista, não uma prova. Abasteça-se de suprimentos antes da prova e decida quando vale a pena usá-los.",
+  "f4_alt": "Um detector de sinal portátil.",
+
+  "f5_title": "Vista o seu fiscal",
+  "f5_text": "Ganhe moedas fazendo um bom trabalho e gaste-as no Guarda-roupa: partes de cima, calças, sapatos, chapéus, óculos, distintivos e o brasão de cada escola em que você trabalhou.",
+  "f5_alt": "Roupas e acessórios do Guarda-roupa: um blazer, um cardigã, um chapéu bucket, óculos redondos, um relógio e um distintivo dourado.",
+
+  "f6_title": "Justo de verdade",
+  "f6_text": "Sem anúncios, sem caixas de recompensa, sem cronômetros pedindo que você pague. O jogo inteiro pode ser jogado de graça; as compras opcionais são moedas e visuais, e você sempre sabe o que vai receber.",
+  "f6_alt": "Uma pilha de moedas de ouro.",
+
+  "schools_title": "As escolas",
+  "schools_caption": "Da sua primeira sala de prova ao maior exame do país.",
+
+  "screens_kicker": "Capturas de tela",
+  "screens_title": "Uma espiada lá dentro",
+  "screens_note": "As capturas de tela do jogo estão a caminho. Enquanto isso, confira a arte do jogo.",
+  "shot_room": "A sala de prova",
+  "shot_schools": "Sua próxima escola",
+  "shot_wardrobe": "O Guarda-roupa",
+  "shot_shop": "A Loja",
+  "shot_career": "Carreira",
+
+  "faq_kicker": "Dúvidas",
+  "faq_title": "Perguntas frequentes",
+  "faq_ads_q": "Tem anúncios?",
+  "faq_ads_a": "Não. O jogo não tem anúncios e não usa identificador de publicidade.",
+  "faq_free_q": "É grátis?",
+  "faq_free_a": "Sim, é grátis para jogar, e você pode jogar o jogo inteiro sem pagar. As compras opcionais são visuais e moedas. Nada é aleatório: você sempre sabe o que vai receber antes de pagar.",
+  "faq_net_q": "Precisa de internet?",
+  "faq_net_a": "Não, funciona offline. Se você permitir, o jogo envia estatísticas de jogo anônimas e relatórios de falhas; você pode desativar isso a qualquer momento em Configurações. Veja a <a href=\"{privacy}\">Política de privacidade</a>.",
+  "faq_langs_q": "Quais idiomas o jogo tem?",
+  "faq_langs_a": "English, Türkçe, Español, Français, 日本語, Português (Brasil) e Русский.",
+  "faq_devices_q": "Em quais aparelhos posso jogar?",
+  "faq_devices_a": "Celulares Android, iPhone e iPad. As duas versões chegam em breve.",
+  "faq_help_q": "Preciso de ajuda com uma compra ou com os meus dados.",
+  "faq_help_a": "Escreva para <a href=\"mailto:{email}\">{email}</a> ou veja a página de <a href=\"{support}\">Suporte</a>.",
+
+  "cta_title": "Lápis na mesa. Sua sala de prova está esperando.",
+
+  "footer_tagline": "Um jogo para celular sobre fiscalizar provas.",
+  "footer_rights": "Todos os direitos reservados.",
+  "footer_links": "Links",
+  "footer_contact": "Contato",
+
+  "support_title": "Suporte",
+  "support_lead": "Dúvidas, um bug, uma compra que não chegou ou um pedido sobre seus dados: fale com a gente.",
+  "support_send": "Enviar e-mail",
+  "support_mail_subject": "Suporte do Pencils Down",
+  "support_include": "Ajuda informar o modelo do seu celular e a versão do jogo, que aparece em <strong>Configurações › Sobre</strong>.",
+  "support_restore_title": "Restaurar compras",
+  "support_restore_1": "Os pacotes de itens ficam vinculados à sua conta do Google Play ou da App Store. Depois de reinstalar o jogo ou em um aparelho novo, abra:",
+  "support_restore_path_1": "<strong>Configurações → Compras → Restaurar compras</strong>, ou",
+  "support_restore_path_2": "<strong>Loja › Pacotes › Restaurar compras</strong>.",
+  "support_restore_2": "As moedas não são restauradas assim: elas ficam salvas no seu aparelho, não em uma conta. No Android, o Backup automático do Google (se estiver ativado) pode trazer os dados do jogo, inclusive as moedas, para um celular novo.",
+  "support_analytics_title": "Desativar os dados de uso e falhas",
+  "support_analytics_1": "Vá em <strong>Configurações → Privacidade e termos → Dados de uso e falhas</strong> e desative. Isso interrompe toda a coleta de uma vez e apaga os dados de análise salvos no seu aparelho. Veja na <a href=\"{privacy}\">Política de privacidade</a> o que é coletado.",
+  "support_delete_title": "Excluir seus dados",
+  "support_delete_subject": "Pedido de exclusão de dados",
+  "support_delete_1": "Para excluir dados que o jogo já enviou, escreva para {email_link}. O jogo não tem contas, então os dados são identificados por um identificador no seu aparelho; vamos responder explicando como encontrá-lo e depois pediremos ao Google que exclua os dados. Desinstalar o jogo apaga tudo o que está salvo no aparelho.",
+  "support_refunds_title": "Reembolsos",
+  "support_refunds_1": "Os pagamentos são processados pela loja de apps, então o reembolso é pedido lá, conforme a política de reembolso dela:",
+  "support_google_hl": "pt-BR",
+  "support_version_title": "Versão do jogo",
+  "support_version_1": "A versão que você tem aparece em <strong>Configurações › Sobre</strong>.",
+
+  "legal_on_page": "Nesta página",
+  "legal_translation_notice": "Esta é uma tradução para sua conveniência; a <a href=\"{en_url}\" hreflang=\"en\" lang=\"en\">versão em inglês</a> prevalece.",
+  "legal_other_docs": "Veja também",
+
+  "nf_title": "Página não encontrada",
+  "nf_text": "Essa página não existe.",
+  "nf_home": "Ir para a página inicial",
+
+  "back_to_top": "Voltar ao topo"
+}

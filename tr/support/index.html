@@ -1,112 +1,91 @@
 <!doctype html>
-<html lang="tr">
+<html lang="tr" dir="ltr">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Destek: Pencils Down: Exam Proctor</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Destek · Pencils Down: Exam Proctor</title>
+<meta name="description" content="Pencils Down: Exam Proctor için iletişim, satın alımları geri yükleme, kullanım verilerini kapatma, veri silme ve iadeler.">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'none'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'none'; base-uri 'self'; form-action 'none'; object-src 'none'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="color-scheme" content="light dark">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' %3E%3Crect width='32' height='32' rx='8' fill='%233d7ef0'/%3E%3Cpath d='M9 23l2-6 9-9 4 4-9 9z' fill='%23f3f7ff'/%3E%3Cpath d='M9 23l2-6 4 4z' fill='%23e9b23a'/%3E%3C/svg%3E">
-<style>
-:root{--bg:#f5f7fb;--surface:#ffffff;--text:#16213a;--muted:#55617a;--line:#dde3ee;--accent:#2f6fe0;--accent-ink:#ffffff;--brass:#b98614;--brass-soft:#fbf1d8;--hero:#13203b;--hero-text:#f3f7ff;color-scheme:light}
-@media (prefers-color-scheme:dark){:root{--bg:#0b1428;--surface:#13203b;--text:#e8eefb;--muted:#a3b0c9;--line:#26365a;--accent:#6a9ef5;--accent-ink:#0b1428;--brass:#e9b23a;--brass-soft:#2a2510;--hero:#0f1a33;--hero-text:#f3f7ff;color-scheme:dark}}
-*{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--bg);color:var(--text);font:17px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
-a{color:var(--accent);text-underline-offset:2px}
-a:focus-visible{outline:2px solid var(--brass);outline-offset:2px;border-radius:3px}
-.wrap{max-width:46rem;margin:0 auto;padding:0 16px}
-header.top{background:var(--hero);color:var(--hero-text);border-bottom:3px solid #e9b23a}
-header.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:56px;flex-wrap:wrap;padding-top:8px;padding-bottom:8px}
-.brand{color:var(--hero-text);text-decoration:none;font-weight:700;letter-spacing:.01em;display:flex;align-items:center;gap:10px}
-.brand svg{flex:none}
-.lang{color:var(--hero-text);font-size:.9rem;text-decoration:none;border:1px solid rgba(243,247,255,.35);border-radius:999px;padding:3px 12px}
-.lang:hover{border-color:#e9b23a}
-main{padding:28px 0 40px}
-h1{font-size:1.75rem;line-height:1.25;margin:.2em 0 .6em}
-h2{font-size:1.2rem;line-height:1.3;margin:2em 0 .5em;padding-top:.2em}
-h1+p strong,h1+p{color:var(--muted)}
-p,ul{margin:.6em 0}
-ul{padding-left:1.3em}
-li{margin:.25em 0}
-li>ul,li>p{margin:.25em 0}
-code{font:.9em ui-monospace,SFMono-Regular,Menlo,monospace}
-.table{overflow-x:auto;margin:1em 0;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
-table{border-collapse:collapse;width:100%;font-size:.95rem}
-th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--line)}
-th{background:var(--brass-soft);font-weight:600}
-tr:last-child td{border-bottom:0}
-td ul{margin:0;padding-left:1.1em}
-@media (max-width:640px){
- .table{border:0;background:none}
- table,thead,tbody,tr,td{display:block;width:100%}
- thead{display:none}
- tr{background:var(--surface);border:1px solid var(--line);border-radius:12px;margin:0 0 12px;padding:4px 0}
- td{border:0;padding:6px 14px}
- td::before{content:attr(data-label);display:block;font-size:.78rem;font-weight:600;text-transform:uppercase;letter-spacing:.04em;color:var(--brass)}
-}
-.lead{font-size:1.1rem}
-.cards{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(13rem,1fr));margin:24px 0}
-.card{display:block;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px 18px;text-decoration:none;color:var(--text)}
-.card:hover{border-color:var(--accent)}
-.card strong{display:block;color:var(--accent);font-size:1.05rem}
-.card span{color:var(--muted);font-size:.92rem}
-.tag{display:inline-block;background:var(--brass-soft);color:var(--brass);font-weight:600;font-size:.8rem;border-radius:999px;padding:2px 10px;letter-spacing:.03em}
-.email{font-size:1.15rem;font-weight:600;user-select:all;-webkit-user-select:all;word-break:break-all}
-.box{background:var(--surface);border:1px solid var(--line);border-left:4px solid #e9b23a;border-radius:12px;padding:12px 16px;margin:1em 0}
-footer{border-top:1px solid var(--line);color:var(--muted);font-size:.9rem;padding:20px 0 32px}
-footer nav{display:flex;flex-wrap:wrap;gap:6px 16px;margin-top:6px}
-</style>
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#f5f7fb">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#070b16">
+<link rel="canonical" href="https://pencilsdowngame.com/tr/support/">
+<link rel="alternate" hreflang="en" href="https://pencilsdowngame.com/support/">
+<link rel="alternate" hreflang="tr" href="https://pencilsdowngame.com/tr/support/">
+<link rel="alternate" hreflang="es" href="https://pencilsdowngame.com/es/support/">
+<link rel="alternate" hreflang="fr" href="https://pencilsdowngame.com/fr/support/">
+<link rel="alternate" hreflang="ja" href="https://pencilsdowngame.com/ja/support/">
+<link rel="alternate" hreflang="pt-BR" href="https://pencilsdowngame.com/pt-br/support/">
+<link rel="alternate" hreflang="ru" href="https://pencilsdowngame.com/ru/support/">
+<link rel="alternate" hreflang="x-default" href="https://pencilsdowngame.com/support/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Pencils Down: Exam Proctor">
+<meta property="og:title" content="Destek · Pencils Down: Exam Proctor">
+<meta property="og:description" content="Pencils Down: Exam Proctor için iletişim, satın alımları geri yükleme, kullanım verilerini kapatma, veri silme ve iadeler.">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:locale:alternate" content="en_US">
+<meta property="og:locale:alternate" content="es_ES">
+<meta property="og:locale:alternate" content="fr_FR">
+<meta property="og:locale:alternate" content="ja_JP">
+<meta property="og:locale:alternate" content="pt_BR">
+<meta property="og:locale:alternate" content="ru_RU">
+<meta property="og:url" content="https://pencilsdowngame.com/tr/support/">
+<meta property="og:image" content="https://pencilsdowngame.com/assets/og/og-tr.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Pencils Down: Exam Proctor · Gerçek kararlar. Gerçek sonuçlar.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Destek · Pencils Down: Exam Proctor">
+<meta name="twitter:description" content="Pencils Down: Exam Proctor için iletişim, satın alımları geri yükleme, kullanım verilerini kapatma, veri silme ve iadeler.">
+<meta name="twitter:image" content="https://pencilsdowngame.com/assets/og/og-tr.jpg">
+<link rel="icon" href="../../favicon.ico" sizes="48x48">
+<link rel="icon" type="image/png" sizes="96x96" href="../../assets/icons/favicon-96.png">
+<link rel="apple-touch-icon" href="../../assets/icons/apple-touch-icon.png">
+<link rel="manifest" href="../../site.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Onest:wght@400;500;700&amp;family=Unbounded:wght@600;700&amp;display=swap" referrerpolicy="no-referrer">
+<link rel="stylesheet" href="../../assets/site.css?v=4de76b3655">
 </head>
-<body>
-<header class="top"><div class="wrap">
-<a class="brand" href="../../tr/"><svg width="26" height="26" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="#3d7ef0"/><path d="M9 23l2-6 9-9 4 4-9 9z" fill="#f3f7ff"/><path d="M9 23l2-6 4 4z" fill="#e9b23a"/></svg><span>Pencils Down: Exam Proctor</span></a>
-<a class="lang" href="../../support/" hreflang="en" lang="en">English</a>
+<body class="page-support">
+<a class="skip" href="#main">İçeriğe geç</a>
+<header class="site-header"><div class="wrap bar">
+<a class="brand" href="../../tr/" aria-label="Pencils Down: Exam Proctor: Ana sayfa"><picture><source type="image/webp" srcset="../../assets/img/app-icon-96.webp 96w, ../../assets/img/app-icon-192.webp 192w, ../../assets/img/app-icon-384.webp 384w" sizes="36px"><img src="../../assets/img/app-icon-192.jpg" srcset="../../assets/img/app-icon-96.jpg 96w, ../../assets/img/app-icon-192.jpg 192w, ../../assets/img/app-icon-384.jpg 384w" sizes="36px" width="1024" height="1024" alt="" class="brand-icon"></picture><span class="brand-name">Pencils Down</span></a>
+<nav class="primary" aria-label="Menü"><ul role="list"><li><a href="../../tr/#game">Oyun</a></li><li><a href="../../tr/#screens">Ekran görüntüleri</a></li><li><a href="../../tr/#faq">SSS</a></li><li><a href="../../tr/support/" aria-current="page">Destek</a></li></ul></nav>
+<div class="bar-end">
+<details class="lang"><summary aria-label="Dil: Türkçe"><svg class="i" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg><span>Türkçe</span><svg class="i chev" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m6 9 6 6 6-6"/></svg></summary><ul role="list"><li><a href="../../support/" hreflang="en" lang="en">English</a></li><li><a href="../../tr/support/" hreflang="tr" lang="tr" aria-current="true">Türkçe<svg class="i tick" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="m5 12 4.5 4.5L19 7"/></svg></a></li><li><a href="../../es/support/" hreflang="es" lang="es">Español</a></li><li><a href="../../fr/support/" hreflang="fr" lang="fr">Français</a></li><li><a href="../../ja/support/" hreflang="ja" lang="ja">日本語</a></li><li><a href="../../pt-br/support/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a></li><li><a href="../../ru/support/" hreflang="ru" lang="ru">Русский</a></li></ul></details>
+<details class="menu"><summary aria-label="Menü"><svg class="i" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 7h16M4 12h16M4 17h16"/></svg></summary>
+<nav aria-label="Menü"><ul role="list"><li><a href="../../tr/#game">Oyun</a></li><li><a href="../../tr/#screens">Ekran görüntüleri</a></li><li><a href="../../tr/#faq">SSS</a></li><li><a href="../../tr/support/" aria-current="page">Destek</a></li></ul></nav></details>
+</div>
 </div></header>
-<main><div class="wrap">
-<h1>Destek</h1>
-<p>Bir sorunuz, bir hata, gelmeyen bir satın alım veya bir veri talebiniz varsa bize yazın.</p>
-<div class="box"><p style="margin:0"><span class="email">support@pencilsdowngame.com</span><br>
-<a href="mailto:support@pencilsdowngame.com?subject=Pencils%20Down%20destek">E-posta gönderin</a></p></div>
-<p>Telefonunuzun modelini ve <strong>Ayarlar › Hakkında</strong> bölümünde gösterilen oyun sürümünü
-yazarsanız yardımcı olur.</p>
-
-<h2 id="restore">Satın alımları geri yükleme</h2>
-<p>Ürün paketleri Google Play veya App Store hesabınıza bağlıdır. Yeniden yüklemeden sonra veya yeni
-bir cihazda şunlardan birini açın:</p>
-<ul>
-<li><strong>Ayarlar → Satın alımlar → Satın alımları geri yükle</strong> veya</li>
-<li><strong>Mağaza › Paketler › Satın alımları geri yükle</strong>.</li>
-</ul>
-<p>Altınlar bu yolla geri gelmez: bir hesapta değil, cihazınızda saklanırlar. Android'de, açıksa
-Google'ın Otomatik Yedekleme özelliği, altınlar dahil oyunun verilerini yeni bir telefonda geri
-getirebilir.</p>
-
-<h2 id="analytics">Kullanım ve çökme verilerini kapatma</h2>
-<p><strong>Ayarlar → Gizlilik ve koşullar → Kullanım ve çökme verileri</strong> seçeneğini kapatın.
-Bu, tüm toplamayı hemen durdurur ve cihazınızda tutulan analiz verilerini temizler. Neyin
-toplandığını <a href="../privacy/">gizlilik politikasında</a> bulabilirsiniz.</p>
-
-<h2 id="delete">Verilerinizi sildirme</h2>
-<p>Oyunun daha önce gönderdiği verilerin silinmesi için <a href="mailto:support@pencilsdowngame.com?subject=Veri%20silme%20talebi">support@pencilsdowngame.com</a>
-adresine yazın. Oyunda hesap olmadığı için veriler cihazınızdaki bir kimlikle tanınır; bu kimliği
-nasıl bulacağınızı yanıtımızda söyler, ardından Google'dan verileri silmesini isteriz. Oyunu
-kaldırmak, cihazda saklanan her şeyi siler.</p>
-
-<h2 id="refunds">İadeler</h2>
-<p>Ödemeleri mağaza yürüttüğü için iade talepleri, mağazanın iade politikasına göre oraya
-iletilir:</p>
-<ul>
-<li>Apple: <a href="https://reportaproblem.apple.com">https://reportaproblem.apple.com</a></li>
-<li>Google: <a href="https://support.google.com/googleplay/answer/2479637?hl=tr">https://support.google.com/googleplay/answer/2479637?hl=tr</a></li>
-</ul>
-
-<h2 id="version">Oyun sürümü</h2>
-<p>Sizdeki sürüm <strong>Ayarlar › Hakkında</strong> bölümünde gösterilir.</p>
-
-</div></main>
-<footer><div class="wrap">
-<div>© 2026 Arda Kabadayı. Tüm hakları saklıdır.</div>
-<nav><a href="../../tr/">Ana sayfa</a><a href="../../tr/privacy/">Gizlilik politikası</a><a href="../../tr/terms/">Kullanım koşulları</a><a href="../../tr/support/">Destek</a><a href="mailto:support@pencilsdowngame.com">support@pencilsdowngame.com</a></nav>
+<main id="main" tabindex="-1">
+<section class="page-head"><div class="wrap narrow"><div class="head-in"><p class="kicker">Pencils Down: Exam Proctor</p><h1>Destek</h1><p class="lead">Bir sorunuz, bir hata, gelmeyen bir satın alım veya bir veri talebiniz varsa bize yazın.</p></div></div></section><div class="wrap narrow support">
+<div class="contact">
+<div class="contact-main"><svg class="i big" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>
+<p class="email" translate="no">support@pencilsdowngame.com</p></div>
+<a class="btn" href="mailto:support@pencilsdowngame.com?subject=Pencils%20Down%20destek">E-posta gönderin<svg class="i" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+<p class="contact-note">Telefonunuzun modelini ve <strong>Ayarlar › Hakkında</strong> bölümünde gösterilen oyun sürümünü yazarsanız yardımcı olur.</p>
+</div>
+<section class="s-card" id="restore" aria-labelledby="restore-t"><div class="s-ico"><svg class="i" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></svg></div><div class="s-body"><h2 id="restore-t">Satın alımları geri yükleme</h2><p>Ürün paketleri Google Play veya App Store hesabınıza bağlıdır. Yeniden yüklemeden sonra veya yeni bir cihazda şunlardan birini açın:</p><ul><li><strong>Ayarlar → Satın alımlar → Satın alımları geri yükle</strong> veya</li><li><strong>Mağaza › Paketler › Satın alımları geri yükle</strong>.</li></ul><p>Altınlar bu yolla geri gelmez: bir hesapta değil, cihazınızda saklanırlar. Android'de, açıksa Google'ın Otomatik Yedekleme özelliği, altınlar dahil oyunun verilerini yeni bir telefonda geri getirebilir.</p></div></section>
+<section class="s-card" id="analytics" aria-labelledby="analytics-t"><div class="s-ico"><svg class="i" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 3 5 6v5c0 4.5 3 8.3 7 10 4-1.7 7-5.5 7-10V6z"/><path d="m9 12 2 2 4-4"/></svg></div><div class="s-body"><h2 id="analytics-t">Kullanım ve çökme verilerini kapatma</h2><p><strong>Ayarlar → Gizlilik ve koşullar → Kullanım ve çökme verileri</strong> seçeneğini kapatın. Bu, tüm toplamayı hemen durdurur ve cihazınızda tutulan analiz verilerini temizler. Neyin toplandığını <a href="../../tr/privacy/">Gizlilik Politikası</a>'nda bulabilirsiniz.</p></div></section>
+<section class="s-card" id="delete" aria-labelledby="delete-t"><div class="s-ico"><svg class="i" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 7h16M10 11v6M14 11v6M6 7l1 13h10l1-13M9 7V4h6v3"/></svg></div><div class="s-body"><h2 id="delete-t">Verilerinizi sildirme</h2><p>Oyunun daha önce gönderdiği verilerin silinmesi için <a href="mailto:support@pencilsdowngame.com?subject=Veri%20silme%20talebi">support@pencilsdowngame.com</a> adresine yazın. Oyunda hesap olmadığı için veriler cihazınızdaki bir kimlikle tanınır; bu kimliği nasıl bulacağınızı yanıtımızda söyler, ardından Google'dan verileri silmesini isteriz. Oyunu kaldırmak, cihazda saklanan her şeyi siler.</p></div></section>
+<section class="s-card" id="refunds" aria-labelledby="refunds-t"><div class="s-ico"><svg class="i" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 7h13a3 3 0 0 1 0 6H8"/><path d="m8 3-4 4 4 4"/><path d="M4 17h16"/></svg></div><div class="s-body"><h2 id="refunds-t">İadeler</h2><p>Ödemeleri mağaza yürüttüğü için iade talepleri, mağazanın iade politikasına göre oraya iletilir:</p><ul class="links"><li>Apple: <a href="https://reportaproblem.apple.com">reportaproblem.apple.com</a></li><li>Google: <a href="https://support.google.com/googleplay/answer/2479637?hl=tr">support.google.com/googleplay</a></li></ul></div></section>
+<section class="s-card" id="version" aria-labelledby="version-t"><div class="s-ico"><svg class="i" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M12 11v5M12 8h.01"/></svg></div><div class="s-body"><h2 id="version-t">Oyun sürümü</h2><p>Sizdeki sürüm <strong>Ayarlar › Hakkında</strong> bölümünde gösterilir.</p></div></section>
+</div>
+</main>
+<footer class="site-footer"><div class="wrap">
+<div class="foot-grid">
+<div class="foot-brand">
+<p class="foot-name"><picture><source type="image/webp" srcset="../../assets/img/app-icon-96.webp 96w, ../../assets/img/app-icon-192.webp 192w, ../../assets/img/app-icon-384.webp 384w" sizes="44px"><img src="../../assets/img/app-icon-192.jpg" srcset="../../assets/img/app-icon-96.jpg 96w, ../../assets/img/app-icon-192.jpg 192w, ../../assets/img/app-icon-384.jpg 384w" sizes="44px" width="1024" height="1024" alt="" loading="lazy" decoding="async" class="brand-icon"></picture><span>Pencils Down: Exam Proctor</span></p>
+<p class="foot-tag">Sınav gözetmenliği üzerine bir mobil oyun.</p>
+<div class="stores small"><span class="store soon" role="note" aria-label="Google Play: Çok yakında"><svg class="i" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M7 4.5v15l12-7.5z"/></svg><span><b>Google Play</b><small>Çok yakında</small></span></span><span class="store soon" role="note" aria-label="App Store: Çok yakında"><svg class="i" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="6.5" y="2.5" width="11" height="19" rx="2.5"/><path d="M11 18.5h2"/></svg><span><b>App Store</b><small>Çok yakında</small></span></span></div>
+</div>
+<nav aria-label="Bağlantılar"><h2 class="foot-h">Bağlantılar</h2><ul role="list"><li><a href="../../tr/">Ana sayfa</a></li><li><a href="../../tr/support/">Destek</a></li><li><a href="../../tr/privacy/">Gizlilik Politikası</a></li><li><a href="../../tr/terms/">Kullanım Koşulları</a></li></ul></nav>
+<nav aria-label="Dil"><h2 class="foot-h">Dil</h2><ul role="list" class="foot-langs"><li><a href="../../support/" hreflang="en" lang="en">English</a></li><li><a href="../../tr/support/" hreflang="tr" lang="tr" aria-current="true">Türkçe</a></li><li><a href="../../es/support/" hreflang="es" lang="es">Español</a></li><li><a href="../../fr/support/" hreflang="fr" lang="fr">Français</a></li><li><a href="../../ja/support/" hreflang="ja" lang="ja">日本語</a></li><li><a href="../../pt-br/support/" hreflang="pt-BR" lang="pt-BR">Português (Brasil)</a></li><li><a href="../../ru/support/" hreflang="ru" lang="ru">Русский</a></li></ul></nav>
+<div><h2 class="foot-h">İletişim</h2><p><a class="foot-mail" href="mailto:support@pencilsdowngame.com">support@pencilsdowngame.com</a></p></div>
+</div>
+<p class="legal-line">© 2026 Arda Kabadayı. Tüm hakları saklıdır.</p>
 </div></footer>
 </body>
 </html>
