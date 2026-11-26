@@ -85,7 +85,7 @@
   "faq_free_q": "Ücretsiz mi?",
   "faq_free_a": "Evet, ücretsiz oynanır ve oyunun tamamını para ödemeden oynayabilirsiniz. İsteğe bağlı satın alımlar görünümler ve altındır. Hiçbir şey rastgele değildir: ödeme yapmadan önce ne alacağınızı her zaman bilirsiniz.",
   "faq_net_q": "İnternet bağlantısı gerekiyor mu?",
-  "faq_net_a": "Hayır, çevrimdışı oynanır. İzin verirseniz oyun anonim oyun istatistikleri ve çökme raporları gönderir; bunu istediğiniz zaman Ayarlar'dan kapatabilirsiniz. Ayrıntılar için <a href=\"{privacy}\">Gizlilik Politikası</a>'na bakın.",
+  "faq_net_a": "Hayır, çevrimdışı oynanır. İzin verirseniz oyun, adınıza veya bir hesaba değil, rastgele bir uygulama tanımlayıcısına bağlı kullanım istatistikleri ve çökme raporları gönderir; bunu istediğiniz zaman Ayarlar'dan kapatabilirsiniz. Ayrıntılar için <a href=\"{privacy}\">Gizlilik Politikası</a>'na bakın.",
   "faq_langs_q": "Hangi dilleri destekliyor?",
   "faq_langs_a": "English, Türkçe, Español, Français, 日本語, Português (Brasil) ve Русский.",
   "faq_devices_q": "Hangi cihazlarda oynayabilirim?",

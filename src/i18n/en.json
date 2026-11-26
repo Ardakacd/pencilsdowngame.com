@@ -85,7 +85,7 @@
   "faq_free_q": "Is it free?",
   "faq_free_a": "Yes, it's free to play, and you can play the whole game without paying. Optional purchases are looks and coins. Nothing is random: you always know what you get before you pay.",
   "faq_net_q": "Does it need an internet connection?",
-  "faq_net_a": "No, it plays offline. If you allow it, the game sends anonymous play statistics and crash reports; you can turn this off at any time in Settings. See the <a href=\"{privacy}\">Privacy Policy</a>.",
+  "faq_net_a": "No, it plays offline. If you allow it, the game sends usage statistics and crash reports tied to a random app identifier, not to your name or an account; you can turn this off at any time in Settings. See the <a href=\"{privacy}\">Privacy Policy</a>.",
   "faq_langs_q": "Which languages does it support?",
   "faq_langs_a": "English, Türkçe, Español, Français, 日本語, Português (Brasil) and Русский.",
   "faq_devices_q": "Which devices can I play on?",

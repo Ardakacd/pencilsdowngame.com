@@ -9,7 +9,7 @@
 - Pas de compte, pas de publicité, pas de pistage entre applications ou sites web, et ni vente ni
   partage de vos données.
 - Avec votre autorisation (ou, hors des régions listées ci-dessous, jusqu'à ce que vous le
-  désactiviez), le jeu envoie des **statistiques de jeu anonymes et des rapports de plantage** à
+  désactiviez), le jeu envoie des **statistiques d'utilisation et des rapports de plantage, liés à un identifiant aléatoire de l'application** (et non à votre nom ou à un compte) à
   Google Firebase. Ils nous aident à corriger des bugs et à équilibrer le jeu.
 - Les achats sont entièrement gérés par **Google Play** ou l'**App Store**. Nous ne voyons jamais vos
   informations de paiement.

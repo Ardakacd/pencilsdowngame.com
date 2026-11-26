@@ -85,7 +85,7 @@
   "faq_free_q": "Est-ce gratuit ?",
   "faq_free_a": "Oui, le jeu est gratuit et vous pouvez y jouer en entier sans payer. Les achats facultatifs sont des tenues et des pièces. Rien n'est aléatoire : vous savez toujours ce que vous obtenez avant de payer.",
   "faq_net_q": "Faut-il une connexion Internet ?",
-  "faq_net_a": "Non, le jeu fonctionne hors ligne. Si vous l'autorisez, il envoie des statistiques de jeu anonymes et des rapports de plantage ; vous pouvez désactiver cet envoi à tout moment dans les Paramètres. Voir la <a href=\"{privacy}\">Politique de confidentialité</a>.",
+  "faq_net_a": "Non, le jeu fonctionne hors ligne. Si vous l'autorisez, il envoie des statistiques d'utilisation et des rapports de plantage liés à un identifiant aléatoire de l'application, et non à votre nom ou à un compte ; vous pouvez désactiver cet envoi à tout moment dans les Paramètres. Voir la <a href=\"{privacy}\">Politique de confidentialité</a>.",
   "faq_langs_q": "Quelles langues sont disponibles ?",
   "faq_langs_a": "English, Türkçe, Español, Français, 日本語, Português (Brasil) et Русский.",
   "faq_devices_q": "Sur quels appareils puis-je jouer ?",

@@ -9,7 +9,7 @@
 - Sin cuenta, sin publicidad, sin seguimiento entre apps o sitios web, y sin venta ni cesión de sus
   datos.
 - Con su permiso (o, fuera de las regiones indicadas más abajo, hasta que lo desactive), el juego
-  envía **estadísticas de juego anónimas e informes de fallos** a Google Firebase. Nos ayudan a
+  envía **estadísticas de uso e informes de fallos, vinculados a un identificador aleatorio de la app** (no a su nombre ni a una cuenta) a Google Firebase. Nos ayudan a
   corregir errores y a equilibrar el juego.
 - Las compras las gestionan por completo **Google Play** o el **App Store**. Nunca vemos sus datos
   de pago.

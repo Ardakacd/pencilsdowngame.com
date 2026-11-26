@@ -85,7 +85,7 @@
   "faq_free_q": "¿Es gratis?",
   "faq_free_a": "Sí, es gratis y puede jugar todo el juego sin pagar. Las compras opcionales son apariencia y monedas. Nada es aleatorio: siempre sabe lo que recibe antes de pagar.",
   "faq_net_q": "¿Necesita conexión a internet?",
-  "faq_net_a": "No, funciona sin conexión. Si usted lo permite, el juego envía estadísticas de juego anónimas e informes de fallos; puede desactivarlo cuando quiera en Configuración. Consulte la <a href=\"{privacy}\">Política de privacidad</a>.",
+  "faq_net_a": "No, funciona sin conexión. Si usted lo permite, el juego envía estadísticas de uso e informes de fallos vinculados a un identificador aleatorio de la app, no a su nombre ni a una cuenta; puede desactivarlo cuando quiera en Configuración. Consulte la <a href=\"{privacy}\">Política de privacidad</a>.",
   "faq_langs_q": "¿En qué idiomas está disponible?",
   "faq_langs_a": "English, Türkçe, Español, Français, 日本語, Português (Brasil) y Русский.",
   "faq_devices_q": "¿En qué dispositivos puedo jugar?",
