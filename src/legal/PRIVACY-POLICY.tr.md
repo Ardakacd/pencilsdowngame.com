@@ -12,7 +12,8 @@ sorumlusu sıfatıyla hazırladığımız aydınlatma metnidir ve oyunun gizlili
 - Hesap, reklam, uygulamalar veya web siteleri arasında takip yoktur; verileriniz satılmaz veya
   paylaşılmaz.
 - İzninizle (aşağıda sayılan bölgeler dışında ise siz kapatana kadar) oyun, Google Firebase'e
-  **anonim oyun istatistikleri ve çökme raporları** gönderir. Bunlar hataları düzeltmemize ve oyunun
+  **rastgele bir uygulama tanımlayıcısına bağlı (adınıza veya bir hesaba değil) kullanım istatistikleri ve çökme raporları**
+  gönderir. Bunlar hataları düzeltmemize ve oyunun
   dengesini ayarlamamıza yardımcı olur.
 - Satın alımlar tamamen **Google Play** veya **App Store** tarafından yürütülür. Ödeme bilgilerinizi
   hiçbir zaman görmeyiz.

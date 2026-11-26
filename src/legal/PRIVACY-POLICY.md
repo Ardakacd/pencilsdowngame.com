@@ -9,7 +9,8 @@
 - No account, no advertising, no tracking across apps or websites, and no sale or sharing of your
   data.
 - With your permission (or, outside the regions listed below, until you turn it off), the game
-  sends **anonymous play statistics and crash reports** to Google Firebase. These help us fix bugs
+  sends **usage statistics and crash reports, tied to a random app identifier** (not to your name
+  or an account) to Google Firebase. These help us fix bugs
   and balance the game.
 - Purchases are handled entirely by **Google Play** or the **App Store**. We never see your payment
   details.
