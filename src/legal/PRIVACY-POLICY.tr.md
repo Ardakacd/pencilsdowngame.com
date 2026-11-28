@@ -44,8 +44,8 @@ telefonunuzun ayarlarından siz yönetirsiniz.
 ## Hangi veriler, kime, hangi amaçla gönderilir
 
 Oyun, Google LLC (Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de Google Ireland Limited)
-tarafından sağlanan Google Firebase hizmetlerini kullanır. **Google, Google Analytics ve Firebase
-veri işleme koşulları kapsamında adımıza veri işleyen sıfatıyla hareket eder.**
+tarafından sağlanan Google Firebase hizmetlerini kullanır.
+**Google, Google Analytics ve Firebase veri işleme koşulları kapsamında adımıza veri işleyen sıfatıyla hareket eder.**
 
 | Hizmet | Aldığı veriler | Amaç | Saklama süresi |
 |---|---|---|---|
